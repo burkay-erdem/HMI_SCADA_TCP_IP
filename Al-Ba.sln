@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Al-Ba", "Al-Ba\Al-Ba.csproj", "{11110A8B-A1C8-4A5B-8322-1419F1F1ED12}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Al-Ba Setup", "Al-Ba Setup\Al-Ba Setup.vdproj", "{19DD9AF5-99B7-4D11-9FB6-713AAA6119A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11110A8B-A1C8-4A5B-8322-1419F1F1ED12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11110A8B-A1C8-4A5B-8322-1419F1F1ED12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11110A8B-A1C8-4A5B-8322-1419F1F1ED12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11110A8B-A1C8-4A5B-8322-1419F1F1ED12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DD9AF5-99B7-4D11-9FB6-713AAA6119A1}.Debug|Any CPU.ActiveCfg = Debug
+		{19DD9AF5-99B7-4D11-9FB6-713AAA6119A1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6104879-EC74-4EDC-819D-55F7D2A98C99}
+	EndGlobalSection
+EndGlobal
